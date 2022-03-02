@@ -1,0 +1,43 @@
+.header{
+    background-color:#FF99FF;
+}
+body{
+    background-color: #CCCCFF;
+}
+
+.texto-encima{
+    position:absolute;
+    top: 150px;
+    left:440px;
+}
+
+.instrucciones{
+    position: absolute;
+    top:250px;
+   
+}
+
+.order{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.grid img{
+ border:2px solid #FF9999;
+ border-radius: 50px;
+
+}
+
+.origami{
+    border-radius: 20px;
+    background-color:#FFCCFF ;
+    width:310px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
